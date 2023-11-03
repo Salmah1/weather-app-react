@@ -19,7 +19,7 @@ export default function App() {
           </a>{" "}
           and hosted on{" "}
           <a
-            href="https://thunderous-semolina-9b1a1f.netlify.app/"
+            href="https://dainty-platypus-0564fd.netlify.app"
             target="_blank"
             rel="noreferrer"
           >
