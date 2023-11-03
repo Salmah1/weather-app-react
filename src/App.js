@@ -11,7 +11,7 @@ export default function App() {
         <footer>
           This project is open-sourced on{" "}
           <a
-            href="https://github.com/Salmah1/weather-application-react/tree/main"
+            href="https://github.com/Salmah1/weather-app-react"
             target="_blank"
             rel="noreferrer"
           >
